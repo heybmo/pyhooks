@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylama = "*"
+pylint = "*"
+yapf = "*"
+
+[packages]
+click = "*"
+colorama = "*"
+pytest = "*"
+
+[requires]
+python_version = "3.7"

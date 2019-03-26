@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "/home/brian/.local/share/virtualenvs/py-gitlint-dOGiS_KC/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylamaEnabled": true,
+  "python.linting.enabled": true,
+  "editor.tabSize": 4,
+  "python.formatting.provider": "yapf"
+}
